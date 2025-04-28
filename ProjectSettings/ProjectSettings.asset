@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: River Runner
+  productName: RiverRunner
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -837,14 +837,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: River Runner
+  metroPackageName: RiverRunner
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: River Runner
+  metroApplicationDescription: RiverRunner
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -918,7 +918,7 @@ PlayerSettings:
   cloudProjectId: bee6f4c9-5123-4497-8d96-102b6e2997e5
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: River Runner
+  projectName: RiverRunner
   organizationId: gsverdrup
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
