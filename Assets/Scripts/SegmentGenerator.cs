@@ -45,6 +45,7 @@ public class SegmentGenerator : MonoBehaviour
         newSegment.SetActive(true); 
         activeSegments.Add(newSegment);
         nextSpawnZ += segmentLength;
+        }
 
     IEnumerator SegmentGen() {
         segmentNum = Random.Range(0, 8);
