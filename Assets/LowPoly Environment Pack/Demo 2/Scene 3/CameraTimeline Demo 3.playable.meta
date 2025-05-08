@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3e0955b7e399c411c844d9c90172c3ff
+timeCreated: 1505209733
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99479
+  packageName: LowPoly Environment Pack
+  packageVersion: 1.0
+  assetPath: Assets/LowPoly Environment Pack/Demo/Scene 3/CameraTimeline Demo 3.playable
+  uploadId: 200756
