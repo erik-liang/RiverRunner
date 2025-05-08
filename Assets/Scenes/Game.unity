@@ -5226,12 +5226,21 @@ MeshCollider:
   m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 1
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 4300000, guid: 71bb44319f15e0741846c4fad009f013, type: 3}
---- !u!1001 &1777452992
-PrefabInstance:
+
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af82a886f7a9de04a9b98496b00c57ce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  segmentTemplates:
+  - {fileID: 1955829563}
+  - {fileID: 1058255490}
+  - {fileID: 373715091}
+  player: {fileID: 1422450348}
+  spawnDistanceAhead: 500
+  deleteDistanceBehind: 60
+  segmentLength: 50
+--- !u!4 &1606935005
+Transform:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
